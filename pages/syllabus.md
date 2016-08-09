@@ -65,3 +65,5 @@ Use of R programming environment is required for homework assignments. When subm
 | Unsupervised learning                    | Chapter 18          |
 | Gene Ontology                            | Chapters 22, 23, 24 |
 | Methylation Analysis                     | Selected readings   |
+
+[University-wide policies](policies.html)
