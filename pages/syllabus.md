@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus, "Statistical Methods for High-throughput Genomic Data I" course, BIOS 567
-description: Syllabus for the "RStatistical Methods for High-throughput Genomic Data I" course BIOS 567
+description: Syllabus for the "Statistical Methods for High-throughput Genomic Data I" course BIOS 567
 ---
 
 **Instructor**: 	Mikhail G. Dozmorov
