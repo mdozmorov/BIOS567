@@ -66,4 +66,4 @@ Use of R programming environment is required for homework assignments. When subm
 | Gene Ontology                            | Chapters 22, 23, 24 |
 | Methylation Analysis                     | Selected readings   |
 
-[University-wide policies](policies.html)
+[University-wide policies](http://www.provost.vcu.edu/academic-affairs/operations/syllabus-statements/)
