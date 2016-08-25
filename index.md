@@ -10,3 +10,5 @@ Web pages for the BIOS 567  course offered by [Mikhail Dozmorov](https://mdozmor
 [Fall 2016 syllabus](pages/syllabus.html)
 
 This course on GitHub [https://github.com/mdozmorov/BIOS567](https://github.com/mdozmorov/BIOS567)
+
+[Acknowledgements](pages/acknowledgements.html)
