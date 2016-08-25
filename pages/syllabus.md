@@ -4,13 +4,13 @@ title: Syllabus, "Statistical Methods for High-throughput Genomic Data I" course
 description: Syllabus for the "Statistical Methods for High-throughput Genomic Data I" course BIOS 567
 ---
 
-**Instructor**: 	Mikhail G. Dozmorov
+**Instructor**: 	Mikhail G. Dozmorov, Ph.D.; Jin Liu (TA)
 
 **Schedule**: 		Monday, Wednesday 1:00pm – 2:20pm
 
 **Classroom**: 		One Capital Square (OCS) 5009
 
-**Office hours**: 	Monday, Wednesday 2:30pm – 3:30pm, OCS 730
+**Office hours**: 	Mon, Wed 2:30pm – 4:00pm, OCS 730; TA: Mon, Wed 10:30am - 12:00pm
 
 **Prerequisites**: BIOS 524 Biostatistical Computing, BIOS 553 Linear Regression, and BIOS 554 ANOVA
 
@@ -52,18 +52,18 @@ Use of R programming environment is required for homework assignments. When subm
 
 # Course Outline
 
-| Topic                                    | Reading             |
-|------------------------------------------|---------------------|
-| Biological Background                    | Chapters 1, 2       |
-| Microarray technology                    | Chapter 3           |
-| Image analysis                           | Chapter 5           |
-| Bioconductor overview                    | Chapter 7           |
-| Quality control                          | Chapter 17, 19      |
-| Normalization & Expression summarization | Chapter 20          |
-| Differential expression                  | Chapter 21          |
-| Multiple hypothesis testing              | Chapter 16          |
-| Unsupervised learning                    | Chapter 18          |
-| Gene Ontology                            | Chapters 22, 23, 24 |
-| Methylation Analysis                     | Selected readings   |
+| Topic                                    | Reading             | Links  |
+|------------------------------------------|---------------------|--------|
+| Biological Background                    | Chapters 1, 2       | [Presentations](00_presentations.html), [R and RStudio](01_R.html), [Biology](02_biology.html) |
+| Microarray technology                    | Chapter 3           |   |
+| Image analysis                           | Chapter 5           |   |
+| Bioconductor overview                    | Chapter 7           |   |
+| Quality control                          | Chapter 17, 19      |   |
+| Normalization & Expression summarization | Chapter 20          |   |
+| Differential expression                  | Chapter 21          |   |
+| Multiple hypothesis testing              | Chapter 16          |   |
+| Unsupervised learning                    | Chapter 18          |   |
+| Gene Ontology                            | Chapters 22, 23, 24 |   |
+| Methylation Analysis                     | Selected readings   |   |
 
 [University-wide policies](http://www.provost.vcu.edu/academic-affairs/operations/syllabus-statements/)
