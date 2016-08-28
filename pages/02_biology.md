@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Biology, "Statistical Methods for High-throughput Genomic Data I" course, BIOS 567
+title: Biology
 ---
 
 [http://biology-pages.info/](http://biology-pages.info/) - Kimball's biology pages
