@@ -12,3 +12,5 @@ title: Presentations
 ## Scientific writing
 
 [http://engineering.missouri.edu/civil/files/science-of-writing.pdf](http://engineering.missouri.edu/civil/files/science-of-writing.pdf) - The Science of Scientific Writing, by George D. Gopen and Judith A. Swan 
+
+[http://sokogskriv.no/en/writing/structure/the-imrad-format/](http://sokogskriv.no/en/writing/structure/the-imrad-format/) - The IMRaD (Introduction – Method – Results – and – Discussion) format
