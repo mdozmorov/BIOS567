@@ -14,7 +14,7 @@ description: Syllabus for the "Statistical Methods for High-throughput Genomic D
 
 **Prerequisites**: BIOS 524 Biostatistical Computing, BIOS 553 Linear Regression, and BIOS 554 ANOVA
 
-**Required text**: Sorin Draghici “Statistics and Data Analysis for Microarrays Using R and Bioconductor”, 2nd Ed., Chapman & Hall/CRC Press, 2012. ISBN-978-1-4398-0975-4, Supplemental course materials provided in-class
+**Required text**: Sorin Draghici “Statistics and Data Analysis for Microarrays Using R and Bioconductor”, 2nd Ed., Chapman & Hall/CRC Press, 2012. ISBN-978-1-4398-0975-4, [preview on Google books](https://books.google.com/books?id=aEm3BgAAQBAJ). Supplemental course materials provided in-class
 
 **Software**: 	The R programming environment
 
