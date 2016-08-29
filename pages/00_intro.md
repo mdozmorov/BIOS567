@@ -3,6 +3,8 @@ layout: page
 title: Presentations
 ---
 
+Intro slides, [HTML](/assets/00_Intro.html), [PDF](/assets/00_Intro.pdf), [Rmd](/assets/00_Intro.Rmd)
+
 ## Preparing a presentation
 
 [https://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf](https://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf) - Tips for giving great talk, by Kayvon Fatahalian

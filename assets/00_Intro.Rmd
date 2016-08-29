@@ -1,0 +1,70 @@
+---
+title: "Welcome to BIOS 567"
+author: "Mikhail Dozmorov"
+date: "Fall 2016"
+output:
+  beamer_presentation:
+    fig_caption: no
+    fig_height: 6
+    fig_width: 7
+  ioslides_presentation:
+    css: css/fonts.css
+    transition: faster
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Course logistics
+
+**Instructor**: Mikhail G. Dozmorov <mikhail.dozmorov@vcuhealth.org>, Ph.D.; Jin Liu (TA)
+
+**Schedule**: Monday, Wednesday 1:00pm – 2:20pm
+
+**Classroom**: One Capital Square (OCS) 5009
+
+**Office hours**: Mon, Wed 2:30pm – 4:00pm, OCS 730; TA: Mon, Wed 10:30am - 12:00pm
+
+**Course documents**: https://blackboard.vcu.edu, https://mdozmorov.github.io/BIOS567/ 
+
+## Course prerequisites
+
+**Prerequisites**: BIOS 524 Biostatistical Computing, BIOS 553 Linear Regression, and BIOS 554 ANOVA
+
+**Required text**: Sorin Draghici “Statistics and Data Analysis for Microarrays Using R and Bioconductor”, 2nd Ed., Chapman & Hall/CRC Press, 2012. ISBN-978-1-4398-0975-4, Supplemental course materials provided in-class
+
+**Software**: The R programming environment
+
+## Computational Genomics
+
+**Genomics/Bioinformatics (general)**
+
+- Generation, organization, and analysis of biological data (initially genomic data) 
+
+**Biostatistics**
+
+- Class of statistical methods for dealing with large biological data sets 
+- Goal: statistically identify significant changes in biological processes to answer relevant biological questions.
+- High-throughput studies; get data matrix; mine the matrix for information
+
+## Bioinformatics {.smaller}
+
+<center>
+![venn](img/venn_bioinformatics.png)
+</center>
+
+Data Scientist = statistician + programmer + coach + storyteller + artist
+
+- Shlomo Aragmon
+
+https://genomejigsaw.wordpress.com/2015/09/27/faq
+
+## Microarrays
+
+Counts of papers per year in PubMed having `microarray` word
+
+<center>
+![Microarrays](img/Pubmed_Microarray.png)
+</center>
+

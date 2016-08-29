@@ -54,7 +54,7 @@ Use of R programming environment is required for homework assignments. When subm
 
 | Topic                                    | Reading             | Links  |
 |------------------------------------------|---------------------|--------|
-| Biological Background                    | Chapters 1, 2       | [Presentations](00_presentations.html), [R and RStudio](01_R.html), [Biology](02_biology.html) |
+| Biological Background                    | Chapters 1, 2       | [Intro](00_intro.html), [R and RStudio](01_R.html), [Biology](02_biology.html) |
 | Microarray technology                    | Chapter 3           |   |
 | Image analysis                           | Chapter 5           |   |
 | Bioconductor overview                    | Chapter 7           |   |
