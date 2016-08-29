@@ -3,7 +3,7 @@ layout: page
 title: Presentations
 ---
 
-Intro slides, [HTML](/BIOS567/assets/00_Intro.html), [PDF](/assets/00_Intro.pdf), [Rmd](/assets/00_Intro.Rmd)
+Intro slides, [HTML](/BIOS567/assets/00_Intro.html), [PDF](/BIOS567/assets/00_Intro.pdf), [Rmd](/BIOS567/assets/00_Intro.Rmd)
 
 ## Preparing a presentation
 
