@@ -3,6 +3,8 @@ layout: page
 title: Biology
 ---
 
+Biology slides, [HTML](/BIOS567/assets/presentation_Biology/02_Molecular_Biology.html), [PDF](/BIOS567/assets/presentation_Biology/02_Molecular_Biology.pdf), [Rmd](/BIOS567/assets/presentation_Biology/02_Molecular_Biology.Rmd)
+
 [http://biology-pages.info/](http://biology-pages.info/) - Kimball's biology pages
 
 [http://atlasgeneticsoncology.org/GeneticEng.html](http://atlasgeneticsoncology.org/GeneticEng.html) - educational items in human genetics
