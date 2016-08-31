@@ -1,2 +1,9 @@
 _site
 Gemfile.lock
+css/
+img/
+*.Rproj
+.Rproj.user/
+.Rhistory
+.DS_Store
+
