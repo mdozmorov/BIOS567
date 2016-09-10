@@ -6,5 +6,6 @@ img/
 .Rproj.user/
 .Rhistory
 .DS_Store
-
+*_cache/
+*_files/
 .Rproj.user

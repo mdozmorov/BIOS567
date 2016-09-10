@@ -3,13 +3,14 @@ title: "Welcome to BIOS 567"
 author: "Mikhail Dozmorov"
 date: "Fall 2016"
 output:
+  slidy_presentation: default
+  ioslides_presentation:
+    css: css/fonts.css
+    transition: faster
   beamer_presentation:
     fig_caption: no
     fig_height: 6
     fig_width: 7
-  ioslides_presentation:
-    css: css/fonts.css
-    transition: faster
 ---
 
 ```{r setup, include=FALSE}
@@ -64,7 +65,9 @@ https://genomejigsaw.wordpress.com/2015/09/27/faq
 
 Counts of papers per year in PubMed having `microarray` word
 
-<center>
-![Microarrays](img/Pubmed_Microarray.png)
-</center>
+
+```{r echo=FALSE, cache=TRUE}
+library(ggplot2)
+MDmisc::get_pubmed_graph("microarray", yearstart = 1995)
+```
 
