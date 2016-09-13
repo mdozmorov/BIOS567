@@ -25,6 +25,8 @@ library(ggplot2)
 library(plotly)
 ```
 
+# Letter combination 
+
 There are `r paste(length(LETTERS))` letters in English alphabet.
 
 We count the number of combinations two, three, ..., five different letters can be selected. Assemble those counts in a list
@@ -59,6 +61,42 @@ Or, an interactive bar graph with `plotly`
 ```{r fig.height=4, fig.width=4}
 ggplotly(p)
 ```
+
+# Tables
+
+## knitr::kable
+
+Check different table representations with `?islands` data
+
+```{r}
+knitr::kable(head(islands))
+```
+
+## pander::pander
+
+Or, with `?state.x77` data
+
+```{r}
+pander::pander(head(state.x77))
+```
+
+## xtable::xtable
+
+Or, with `?WorldPhones` data
+
+```{r results='asis'}
+tab <- xtable::xtable(WorldPhones)
+print(tab, type = "html")
+```
+
+## DT::datatable
+
+Or, with `?mtcars` data
+
+```{r}
+DT::datatable(mtcars)
+```
+
 
 ```{r session_info, results='asis'}
 diagnostics <- devtools::session_info()
