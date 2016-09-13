@@ -7,6 +7,9 @@ output:
     fig_caption: no
     fig_height: 6
     fig_width: 7
+    colortheme: dolphin
+    fonttheme: structurebold
+    theme: AnnArbor
   ioslides_presentation:
     css:
     - css/fonts.css
