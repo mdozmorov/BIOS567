@@ -3,14 +3,17 @@ title: "Welcome to BIOS 567"
 author: "Mikhail Dozmorov"
 date: "Fall 2016"
 output:
-  slidy_presentation: default
-  ioslides_presentation:
-    css: css/fonts.css
-    transition: faster
   beamer_presentation:
+    colortheme: dolphin
     fig_caption: no
     fig_height: 6
     fig_width: 7
+    fonttheme: structurebold
+    theme: AnnArbor
+  ioslides_presentation:
+    css: css/fonts.css
+    transition: faster
+  slidy_presentation: default
 ---
 
 ```{r setup, include=FALSE}

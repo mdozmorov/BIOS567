@@ -3,16 +3,19 @@ title: "The Biology and Genetics of Cells and Organisms"
 author: "Mikhail Dozmorov"
 date: "Fall 2016"
 output:
+  beamer_presentation:
+    colortheme: dolphin
+    fig_caption: no
+    fig_height: 6
+    fig_width: 7
+    fonttheme: structurebold
+    theme: AnnArbor
   ioslides_presentation:
     css:
     - css/fonts.css
     - css/custom.css
     transition: faster
     widescreen: yes
-  beamer_presentation:
-    fig_caption: no
-    fig_height: 6
-    fig_width: 7
 ---
 
 ```{r setup, include=FALSE}
