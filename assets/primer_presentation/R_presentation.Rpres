@@ -1,0 +1,189 @@
+<!-- https://rstudio-pubs-static.s3.amazonaws.com/27777_55697c3a476640caa0ad2099fe914ae5.html -->
+
+<style>
+
+.footer {
+    color: black;
+    background: #E8E8E8;
+    position: fixed;
+    top: 90%;
+    text-align:center;
+    width:100%;
+}
+
+h1, h2, h3 {
+  word-wrap: normal;
+  -moz-hyphens: none;
+}
+
+.midcenter {
+    position: fixed;
+    top: 25%;
+    left: 25%;
+}
+
+</style>
+
+
+Presentation title
+========================================================
+author: First name, Last name
+date: Current date
+transition: none
+transition-speed: fast
+navigation: slide
+font-family: 'Helvetica'
+<!--linear, rotate, fade, zoom, concave-->
+<!--# default, slow-->
+
+Incremental list
+========================================================
+incremental: true
+
+For more details on authoring R presentations click the
+**?** button on the toolbar 
+  
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+
+By default, the code is executed. Use chunc options, e.g.
+`eval = FALSE`, to disable execution
+
+```{r}
+summary(cars)
+```
+
+
+Slide With Two Adjustable columns
+========================================================
+left: 30%
+
+Here, the text is shown on the left, and the results
+of the R code are shown on the right
+***
+```{r echo=FALSE}
+library(dplyr)
+summary(iris) %>% kable
+```
+
+Slide With Plot
+========================================================
+
+Code chunk options can adjust figure appearance
+
+```{r, echo=FALSE, fig.width=9}
+plot(cars)
+```
+
+Special Slide Type: Section Slide
+========================================================
+type: section
+
+This is how a **section** slide looks
+
+Special Slide Type: Sub-Section Slide
+========================================================
+type: sub-section
+
+This is how a **sub-section** slide looks
+
+Special Slide Type: Prompt Slide
+========================================================
+type: prompt
+
+This is how a **prompt** slide looks
+
+Special Slide Type: Alert Slide
+========================================================
+type: alert
+
+This is how a **alert** slide looks
+
+Regular Slide
+========================================================
+
+Good old normal look
+
+Slide Without Title
+========================================================
+title: false
+
+This slide does not have a title
+
+
+Slide With Different Code Type
+========================================================
+
+This is `bash` code rendering
+
+```{bash eval=FALSE}
+mkdir help
+```
+
+Slide with a table
+========================================================
+
+```{r echo=FALSE}
+kable(head(iris))
+```
+
+Slide With a Custom Footer
+========================================================
+
+Custom things are done using HTML syntax
+
+<small>This sentence will appear smaller.</small>
+
+<div class="footer">This block of text will appear with the 'footer' style</div>
+
+Slide With Individual Adjustments
+========================================================
+
+<span style="font-weight:bold; color:red;">This text will appear red and bold</span>
+
+
+Slide With Image
+========================================================
+
+Using HTML tags to insert image
+
+<div class="h1" style="margin-left:-10px; margin-top:-10px;">
+<img src="img/Erika_9_typewriter.jpg"></img>
+</div>
+
+Slide With Image
+========================================================
+
+Using CSS style to insert image
+
+<div class="midcenter">
+<img src="img/Erika_9_typewriter.jpg"></img>
+</div>
+
+Slide With Image
+========================================================
+id: slide_image
+
+Using `knitr` syntax to insert image
+
+![Erika typewriter](img/Erika_9_typewriter.jpg)
+
+Slide With Links
+========================================================
+
+Links can be made to outside sites, like [RStudio](https://www.rstudio.com/)
+
+Or to the slides having "id" tag, [go to slide_image](#/slide_image)
+
+Slide With Mathematic Formulas
+========================================================
+
+Formulas are written in [MathJax](http://docs.mathjax.org/en/latest/start.html)
+
+The formula for arithmetic mean looks like 
+$\frac{1}{n} \sum_{i=i}^{n} x_{i}$
+
