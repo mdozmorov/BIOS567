@@ -3,6 +3,12 @@ title: "Data visualization in R"
 author: "Mikhail Dozmorov"
 date: "Fall 2016"
 output:
+  ioslides_presentation:
+    css:
+    - css/fonts.css
+    - css/custom.css
+    transition: faster
+    widescreen: yes
   beamer_presentation:
     colortheme: dolphin
     fig_caption: no
@@ -10,12 +16,6 @@ output:
     fig_width: 7
     fonttheme: structurebold
     theme: AnnArbor
-  ioslides_presentation:
-    css:
-    - css/fonts.css
-    - css/custom.css
-    transition: faster
-    widescreen: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -79,20 +79,44 @@ Weissgerber T et.al., "Beyond Bar and Line Graphs: Time for a New Data Presentat
 
 ## R base graphics
 
-- `heatmap()` - heatmap
+- `stats::heatmap()` - basic heatmap
 
 Alternatives: 
 
-- `qplots::heatmap.2()`
-- `pheatmap::pheatmap()`
-- `NMF::aheatmap()`
+- `gplots::heatmap.2()` - an extension of heatmap
+- `heatmap3::heatmap3()` - another extension of heatmap
+- `ComplexHeatmap::Heatmap()` - highly customizable, interactive heatmap
 
-Other useful plots:
+Other options:
+
+- `pheatmap::pheatmap()` - grid-based heatmap
+- `NMF::aheatmap()` - another grid-based heatmap
+
+## More heatmaps
+
+- `fheatmap::fheatmap()` - heatmap with some ggplot2
+- `gapmap::gapmap()` - gapped heatmap (ggplot2/grid)
+
+Interactive heatmaps:
+
+- `d3heatmap::d3heatmap()` - interactive heatmap in d3
+- `heatmaply::heatmaply()` - interactive heatmap with better dendrograms
+
+Compare clusters
+
+- `dendextend` package - make better dendrograms, compare them with ease
+
+<https://channel9.msdn.com/Events/useR-international-R-User-conference/useR2016/Heatmaps-in-R-Overview-and-best-practices>
+
+## Other useful plots
 
 - `qqnorm()`, `qqline()`, `qqplot()` - distribution comparison plots
 - `pairs()` - pair-wise plot of multivariate data
 
+&nbsp;
+
 <http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual#TOC-Some-Great-R-Functions>
+
 
 ## Special plots
 

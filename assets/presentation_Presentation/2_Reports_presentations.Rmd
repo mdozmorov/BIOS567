@@ -3,18 +3,18 @@ title: "Presentations in RMarkdown"
 author: "Mikhail Dozmorov"
 date: "Fall 2016"
 output:
-  beamer_presentation:
-    fig_caption: no
-    fig_height: 6
-    fig_width: 7
-    colortheme: dolphin
-    fonttheme: structurebold
-    theme: AnnArbor
   ioslides_presentation:
     css:
     - css/fonts.css
     - css/custom.css
     transition: faster
+  beamer_presentation:
+    colortheme: dolphin
+    fig_caption: no
+    fig_height: 6
+    fig_width: 7
+    fonttheme: structurebold
+    theme: AnnArbor
 ---
 
 ## The power of RMarkdown
