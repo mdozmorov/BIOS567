@@ -1,3 +1,8 @@
+---
+layout: page
+title: Microarray databases
+---
+
 # Databases of genomic data, microarrays
 
 - [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/) - Gene Expression Omnibus
