@@ -3,6 +3,7 @@ layout: page
 title: Microarray databases
 ---
 
+Microarray databases slides, [HTML](/BIOS567/assets/presentation_Microarray/02_Microarray_databases.html), [PDF](/BIOS567/assets/presentation_Microarray/02_Microarray_databases.pdf), [Rmd](/BIOS567/assets/presentation_Microarray/02_Microarray_databases.Rmd)
 # Databases of genomic data, microarrays
 
 - [https://www.ncbi.nlm.nih.gov/geo/](https://www.ncbi.nlm.nih.gov/geo/) - Gene Expression Omnibus
