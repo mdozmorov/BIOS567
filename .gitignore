@@ -9,3 +9,12 @@ img/
 *_cache/
 *_files/
 .Rproj.user
+Untitled*
+rsconnect*
+Test*
+assets/primer_presentation/Beamer_presentation*
+assets/primer_presentation/R_presentation*
+assets/primer_presentation/Slidify_presentation
+assets/primer_presentation/knitr.html
+assets/presentation_Graphics/presentation_Graphics/
+
