@@ -68,4 +68,5 @@ Use of R programming environment is required for homework assignments. When subm
 | Methylation Analysis                     | Selected readings   |   |
 
 [Final project](final_project.html)
+
 [University-wide policies](http://www.provost.vcu.edu/academic-affairs/operations/syllabus-statements/)
