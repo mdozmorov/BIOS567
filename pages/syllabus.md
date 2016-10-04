@@ -41,6 +41,7 @@ At the conclusion of the course, students will be able to collect, analyze and i
 * Problem solving, programming assignments, writing, oral presentations 
 * Final project (30%)
 * The following scale is strictly observed (no rounding): A: 90-100, B: 80-89, C: <80
+
 Use of R programming environment is required for homework assignments. When submitting homework both solutions and R code are required to be turned in. Instructions for generating reproducible reports with knitR/Markdown will be provided.
 
 # Class Rules
@@ -66,4 +67,5 @@ Use of R programming environment is required for homework assignments. When subm
 | Gene Ontology                            | Chapters 22, 23, 24 |   |
 | Methylation Analysis                     | Selected readings   |   |
 
+[Final project](final_project.html)
 [University-wide policies](http://www.provost.vcu.edu/academic-affairs/operations/syllabus-statements/)
