@@ -17,6 +17,8 @@ QC Affymetrix (single-channel) arrays slides, [HTML](/BIOS567/assets/presentatio
 
 - `Affy_QC.R` - reading CEL files, plotting probes, boxplots, affyPLM visualization, average background, percent present, 3'/5' ratio. [code](/BIOS567/assets/presentation_Quality/Affy_QC.R), [data](/BIOS567/assets/presentation_Quality/affy.zip)
 
+- `LOF_code.R` - lack of fit test using Affymetrix spike-in [data](/BIOS567/assets/presentation_Quality/12_13_02_U133A_Mer_Latin_Square_Expt4_R1.CEL.gz), [code](/BIOS567/assets/presentation_Quality/LOF_code.R)
+
 # References
 
 - Quality Assessment of Exon and Gene 1.0 ST Arrays (pdf, 180 KB) [http://www.affymetrix.com/support/technical/whitepapers/exon_gene_arrays_qa_whitepaper.pdf](http://www.affymetrix.com/support/technical/whitepapers/exon_gene_arrays_qa_whitepaper.pdf)
