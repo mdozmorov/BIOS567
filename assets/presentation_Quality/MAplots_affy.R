@@ -1,4 +1,3 @@
-# /Users/mikhail/Documents/Work/Teaching/Microarray_Irizarry/02-code.R
 # Constructing ExpressionSet
 # Visualizing MA plots, smoothScatter MA plots, Volcano plots
 

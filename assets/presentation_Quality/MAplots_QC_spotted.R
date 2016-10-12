@@ -1,8 +1,6 @@
 # Reading custom spotted array data into R - Quality Control Data
 # Stratagene Universal Human RNA, same samples on multiple arrays,
 # each sample labeled with both Cy3 and Cy5
-getwd()
-setwd("data")
 dir(pattern = "txt")
 file <- dir(pattern = "txt")[1:2]
 file

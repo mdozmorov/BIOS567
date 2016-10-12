@@ -1,7 +1,6 @@
 ############################################
 ## Processing Affymetrix CEL files
 ############################################
-setwd("data")
 library(affy)
 56000*11*2 # Memory requirements for 56K probesets, 11 arrays, PM-MM
 memory.limit(size=4000) # Windows onlyl
