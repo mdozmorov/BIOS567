@@ -60,7 +60,7 @@ Use of R programming environment is required for homework assignments. When subm
 | Image analysis                           | Chapter 5           | [Image analysis](03_image_analysis.html)  |
 | Bioconductor overview                    | Chapter 7           | [Bioconductor](04_Bioconductor.html)  |
 | Quality control                          | Chapter 17, 19      | [Quality control](05_quality_control.html)  |
-| Normalization & Expression summarization | Chapter 20          |   |
+| Normalization & Expression summarization | Chapter 20          | [Normalization](06a_normalization.html)  |
 | Differential expression                  | Chapter 21          |   |
 | Multiple hypothesis testing              | Chapter 16          |   |
 | Unsupervised learning                    | Chapter 18          |   |
