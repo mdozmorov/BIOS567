@@ -16,6 +16,8 @@ Microarray databases slides, [HTML](/BIOS567/assets/presentation_Microarray/02_M
 
 - [http://bioinformatics.mdanderson.org/main/Public_Datasets](http://bioinformatics.mdanderson.org/main/Public_Datasets) - MD Anderson public datasets
 
+- [https://github.com/ramhiser/datamicroarray](https://github.com/ramhiser/datamicroarray) - A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models.
+
 # Selected GEO datasets
 
 [GSE62924](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62924) - Prenatal arsenic exposure and the epigenome: Identifying sites of 5-methyl cytosine alterations that predict functional changes in gene expression in newborn cord blood and subsequent birth outcomes. **Illumina HumanMethylation450 BeadChip**. Rojas D, Rager JE, Smeester L, Bailey KA et al. Prenatal arsenic exposure and the epigenome: identifying sites of 5-methylcytosine alterations that predict functional changes in gene expression in newborn cord blood and subsequent birth outcomes. Toxicol Sci 2015. PMID: 25304211
