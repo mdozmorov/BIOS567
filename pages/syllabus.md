@@ -61,7 +61,7 @@ Use of R programming environment is required for homework assignments. When subm
 | Bioconductor overview                    | Chapter 7           | [Bioconductor](04_Bioconductor.html)  |
 | Quality control                          | Chapter 17, 19      | [Quality control](05_quality_control.html)  |
 | Normalization & Expression summarization | Chapter 20          | [Normalization](06a_normalization.html), [Expression summarization](06b_expression_summarization.html)  |
-| Differential expression                  | Chapter 21          |   |
+| Differential expression                  | Chapter 21          | [Differential expression](07a_diffexpression.html)  |
 | Multiple hypothesis testing              | Chapter 16          |   |
 | Unsupervised learning                    | Chapter 18          |   |
 | Gene Ontology                            | Chapters 22, 23, 24 |   |
