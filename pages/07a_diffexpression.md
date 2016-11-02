@@ -13,6 +13,10 @@ Differential expression using `limma`, [Rmd](/BIOS567/assets/presentation_diffex
 
 Differential expression using `sam`, [Rmd](/BIOS567/assets/presentation_diffexpression/DiffExpr_SAM.Rmd) , [HTML](/BIOS567/assets/presentation_diffexpression/DiffExpr_SAM.html)
 
+Gene ID conversion using `biomaRt`, [biomaRt.R](/BIOS567/assets/presentation_diffexpression/biomaRt.R)
+
+Extracting gene coordinates using `annotables`, [grch37_gene_classes_to_BED.R](/BIOS567/assets/presentation_diffexpression/grch37_gene_classes_to_BED.R)
+
 ### References
 
 - Original `limma` paper
