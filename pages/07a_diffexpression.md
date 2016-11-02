@@ -5,6 +5,12 @@ title: Differential expression
 
 Differential expression slides, [HTML](/BIOS567/assets/presentation_diffexpression/diffexpression.html), [PDF](/BIOS567/assets/presentation_diffexpression/diffexpression.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/diffexpression.Rmd)
 
+### Exercises
+
+Differential expression using `limma`, [Rmd](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.Rmd) , [HTML](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.html)
+
+Differential expression using `sam`, [Rmd](/BIOS567/assets/presentation_diffexpression/DiffExpr_SAM.Rmd) , [HTML](/BIOS567/assets/presentation_diffexpression/DiffExpr_SAM.html)
+
 ### References
 
 - Original `limma` paper
