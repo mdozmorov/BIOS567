@@ -7,6 +7,8 @@ Differential expression slides, [HTML](/BIOS567/assets/presentation_diffexpressi
 
 Gene ID conversion slides, [HTML](/BIOS567/assets/presentation_diffexpression/annotation.html), [PDF](/BIOS567/assets/presentation_diffexpression/annotation.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/annotation.Rmd)
 
+Multiple testing correction slides, [HTML](/BIOS567/assets/presentation_diffexpression/multipletesting.html), [PDF](/BIOS567/assets/presentation_diffexpression/multipletesting.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/multipletesting.Rmd)
+
 ### Exercises
 
 Differential expression using `limma`, [Rmd](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.Rmd) , [HTML](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.html)
