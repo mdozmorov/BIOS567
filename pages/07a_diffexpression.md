@@ -19,6 +19,8 @@ Gene ID conversion using `biomaRt`, [biomaRt.R](/BIOS567/assets/presentation_dif
 
 Extracting gene coordinates using `annotables`, [grch37_gene_classes_to_BED.R](/BIOS567/assets/presentation_diffexpression/grch37_gene_classes_to_BED.R)
 
+Multiple testing correction demo, [multitest.R](/BIOS567/assets/presentation_diffexpression/multitest.R)
+
 ### References
 
 - Original `limma` paper
