@@ -5,6 +5,8 @@ title: Differential expression
 
 Differential expression slides, [HTML](/BIOS567/assets/presentation_diffexpression/diffexpression.html), [PDF](/BIOS567/assets/presentation_diffexpression/diffexpression.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/diffexpression.Rmd)
 
+Gene ID conversion slides, [HTML](/BIOS567/assets/presentation_diffexpression/annotation.html), [PDF](/BIOS567/assets/presentation_diffexpression/annotation.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/annotation.Rmd)
+
 ### Exercises
 
 Differential expression using `limma`, [Rmd](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.Rmd) , [HTML](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.html)
