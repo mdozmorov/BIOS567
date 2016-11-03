@@ -174,8 +174,8 @@ $$1-\sqrt[22,283]{1-0.05}=0.000002302$$
 
 1. Order the p-values and hypotheses $P_1 \ge ... \ge P_g$ corresponding to $H_1, ..., H_g$
 2. Let $i = 1$
-3. If $P_{g-i+1} > \alpha / (g - 1 + 1)$ then accept all remaining hypotheses $H_{g-i+1}$ and STOP
-4. If $P_{g-i+1} \le \alpha / (g - 1 + 1)$ then reject $H_{g-i+1}$ and increment $i$, then return to step 3.
+3. If $P_{g-i+1} > \alpha / (g - i + 1)$ then accept all remaining hypotheses $H_{g-i+1}$ and STOP
+4. If $P_{g-i+1} \le \alpha / (g - i + 1)$ then reject $H_{g-i+1}$ and increment $i$, then return to step 3.
 
 ## Multiple Hypothesis Testing: FWER {.larger}
 
@@ -183,8 +183,8 @@ $$1-\sqrt[22,283]{1-0.05}=0.000002302$$
 
 1. Order the p-values and hypotheses $P_1 \ge ... \ge P_g$ corresponding to $H_1, ..., H_g$
 2. Let $i = 1$
-3. If $P_{g-i+1} > 1 - \sqrt[g - 1 + 1]{1 - \alpha}$ then accept all remaining hypotheses $H_{g-i+1}$ and STOP
-4. If $P_{g-i+1} \le 1 - \sqrt[g - 1 + 1]{1 - \alpha}$ then reject $H_{g-i+1}$ and increment $i$, then return to step 3.
+3. If $P_{g-i+1} > 1 - \sqrt[g - i + 1]{1 - \alpha}$ then accept all remaining hypotheses $H_{g-i+1}$ and STOP
+4. If $P_{g-i+1} \le 1 - \sqrt[g - i + 1]{1 - \alpha}$ then reject $H_{g-i+1}$ and increment $i$, then return to step 3.
 
 ## Multiple Hypothesis Testing: FWER {.larger}
 

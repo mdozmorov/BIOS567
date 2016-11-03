@@ -288,8 +288,8 @@
 <ol>
 <li>Order the p-values and hypotheses \(P_1 \ge ... \ge P_g\) corresponding to \(H_1, ..., H_g\)</li>
 <li>Let \(i = 1\)</li>
-<li>If \(P_{g-i+1} &gt; \alpha / (g - 1 + 1)\) then accept all remaining hypotheses \(H_{g-i+1}\) and STOP</li>
-<li>If \(P_{g-i+1} \le \alpha / (g - 1 + 1)\) then reject \(H_{g-i+1}\) and increment \(i\), then return to step 3.</li>
+<li>If \(P_{g-i+1} &gt; \alpha / (g - i + 1)\) then accept all remaining hypotheses \(H_{g-i+1}\) and STOP</li>
+<li>If \(P_{g-i+1} \le \alpha / (g - i + 1)\) then reject \(H_{g-i+1}\) and increment \(i\), then return to step 3.</li>
 </ol>
 
 </article></slide><slide class=''><hgroup><h2>Multiple Hypothesis Testing: FWER</h2></hgroup><article  id="multiple-hypothesis-testing-fwer-5" class="larger">
@@ -299,8 +299,8 @@
 <ol>
 <li>Order the p-values and hypotheses \(P_1 \ge ... \ge P_g\) corresponding to \(H_1, ..., H_g\)</li>
 <li>Let \(i = 1\)</li>
-<li>If \(P_{g-i+1} &gt; 1 - \sqrt[g - 1 + 1]{1 - \alpha}\) then accept all remaining hypotheses \(H_{g-i+1}\) and STOP</li>
-<li>If \(P_{g-i+1} \le 1 - \sqrt[g - 1 + 1]{1 - \alpha}\) then reject \(H_{g-i+1}\) and increment \(i\), then return to step 3.</li>
+<li>If \(P_{g-i+1} &gt; 1 - \sqrt[g - i + 1]{1 - \alpha}\) then accept all remaining hypotheses \(H_{g-i+1}\) and STOP</li>
+<li>If \(P_{g-i+1} \le 1 - \sqrt[g - i + 1]{1 - \alpha}\) then reject \(H_{g-i+1}\) and increment \(i\), then return to step 3.</li>
 </ol>
 
 </article></slide><slide class=''><hgroup><h2>Multiple Hypothesis Testing: FWER</h2></hgroup><article  id="multiple-hypothesis-testing-fwer-6" class="larger">
