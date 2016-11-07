@@ -48,4 +48,17 @@ Storey, John D., and Robert Tibshirani. “**Statistical Significance for Genome
 
 Krzywinski, Martin, and Naomi Altman. “**Points of Significance: Comparing Samples—part II.**” Nature Methods 2014 [http://www.nature.com/nmeth/journal/v11/n4/full/nmeth.2900.html](http://www.nature.com/nmeth/journal/v11/n4/full/nmeth.2900.html)
 
+- An overview of the batch effect problem
+
+Leek, Jeffrey T., et. al., and Rafael A. Irizarry. “**Tackling the Widespread and Critical Impact of Batch Effects in High-Throughput Data.**” Nature Reviews. 2010 [http://www.nature.com/nrg/journal/v11/n10/abs/nrg2825.html](http://www.nature.com/nrg/journal/v11/n10/abs/nrg2825.html)
+
+- Original ComBat paper
+
+Johnson, W. Evan, Cheng Li, and Ariel Rabinovic. “**Adjusting Batch Effects in Microarray Expression Data Using Empirical Bayes Methods.**” Biostatistics 2007 [http://biostatistics.oxfordjournals.org/content/8/1/118.long](http://biostatistics.oxfordjournals.org/content/8/1/118.long)
+
+- SVA paper
+
+Leek, Jeffrey T., and John D. Storey. “**Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis.**” PLoS Genetics 2007 [http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0030161)
+
+
 
