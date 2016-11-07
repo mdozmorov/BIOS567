@@ -40,4 +40,12 @@ Tusher, V. G., R. Tibshirani, and G. Chu. “**Significance Analysis of Microarr
 
 - `samr` package [https://cran.r-project.org/web/packages/samr/index.html](https://cran.r-project.org/web/packages/samr/index.html)
 
+- Original q-value paper
+
+Storey, John D., and Robert Tibshirani. “**Statistical Significance for Genomewide Studies.**” PNAS 2003 [http://www.pnas.org/content/100/16/9440.long](http://www.pnas.org/content/100/16/9440.long)
+
+- A two-page overview of multiple testing correction
+
+Krzywinski, Martin, and Naomi Altman. “**Points of Significance: Comparing Samples—part II.**” Nature Methods 2014 [http://www.nature.com/nmeth/journal/v11/n4/full/nmeth.2900.html](http://www.nature.com/nmeth/journal/v11/n4/full/nmeth.2900.html)
+
 
