@@ -9,6 +9,8 @@ Gene ID conversion slides, [HTML](/BIOS567/assets/presentation_diffexpression/an
 
 Multiple testing correction slides, [HTML](/BIOS567/assets/presentation_diffexpression/multipletesting.html), [PDF](/BIOS567/assets/presentation_diffexpression/multipletesting.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/multipletesting.Rmd)
 
+Batch effect correction slides [HTML](/BIOS567/assets/presentation_diffexpression/batch.html), [PDF](/BIOS567/assets/presentation_diffexpression/batch.pdf), [Rmd](/BIOS567/assets/presentation_diffexpression/batch.Rmd)
+
 ### Exercises
 
 Differential expression using `limma`, [Rmd](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.Rmd) , [HTML](/BIOS567/assets/presentation_diffexpression/DiffExpr_Limma.html)
