@@ -21,6 +21,8 @@ Extracting gene coordinates using `annotables`, [grch37_gene_classes_to_BED.R](/
 
 Multiple testing correction demo, [multitest.R](/BIOS567/assets/presentation_diffexpression/multitest.R)
 
+Example of batch effect correction using ComBat and SVA [http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html](http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html), [batch_sva_combat.R](/BIOS567/assets/presentation_diffexpression/batch_sva_combat.R)
+
 ### References
 
 - Original `limma` paper
