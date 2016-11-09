@@ -64,7 +64,7 @@ Use of R programming environment is required for homework assignments. When subm
 | Differential expression                  | Chapter 21          | [Differential expression](07a_diffexpression.html)  |
 | Multiple hypothesis testing              | Chapter 16          | [Multiple testing correction](07b_multitest.html)  |
 | Unsupervised learning                    | Chapter 18          |   |
-| Gene Ontology, Functional enrichment     | Chapters 22, 23, 24 | [Gene Ontology, Functional enrichment](12_geneonology.html)  |
+| Gene Ontology, Functional enrichment     | Chapters 22, 23, 24 | [Gene Ontology, Functional enrichment](12_geneontology.html)  |
 | Methylation Analysis                     | Selected readings   |   |
 
 [Final project](final_project.html)
