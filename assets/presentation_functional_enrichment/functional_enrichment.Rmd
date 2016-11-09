@@ -364,7 +364,7 @@ If $k > k_e$, functional category is said to be enriched, with a ratio of enrich
 
 What is the probability of having $k$ or more genes from the category in the selected $n$ genes?
 
-$$P = \sum_{i=k}^n{ \frac{{m-j \choose n-i}{j \choose i}}{{m \choose n}}}$$
+$$P = \sum_{i=k}^n{\frac{\binom{m-j}{n-i}\binom{j}{i}}{{m \choose n}}}$$
 
 ## Approach 1 {.larger}
 
@@ -377,7 +377,7 @@ $$P = \sum_{i=k}^n{ \frac{{m-j \choose n-i}{j \choose i}}{{m \choose n}}}$$
 
 $k < (n/m)*j$ - underrepresentation. Probability of $k$ or less genes from the category in the selected $n$ genes?
 
-$$P = \sum_{i=0}^k{ \frac{{m-j \choose n-i}{j \choose i}}{{m \choose n}}}$$
+$$P = \sum_{i=0}^k{\frac{\binom{m-j}{n-i}\binom{j}{i}}{{m \choose n}}}$$
 
 ## Approach 1 {.larger}
 
@@ -390,7 +390,7 @@ $$P = \sum_{i=0}^k{ \frac{{m-j \choose n-i}{j \choose i}}{{m \choose n}}}$$
 
 If rows or columns of the 2x2 contingency table are independent, Fisher's exact test is used
 
-$$P = \sum_{i=k}^n{ \frac{{n \choose i}{m \choose j+k-i}}{{m+n \choose j+k}}}$$
+$$P = \sum_{i=k}^n{\frac{\binom{n}{i}\binom{m}{j+k-i}}{{m+n \choose j+k}}}$$
 
 
 ## Approach 1 {.larger}
