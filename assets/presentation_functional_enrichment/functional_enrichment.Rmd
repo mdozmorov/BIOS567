@@ -381,20 +381,6 @@ $$P = \sum_{i=0}^k{\frac{\binom{m-j}{n-i}\binom{j}{i}}{{m \choose n}}}$$
 
 ## Approach 1 {.larger}
 
-**Overrepresentation analysis, Fisher's exact test** 
-
-- $m$ is the total number of genes
-- $j$ is the number of genes are in the functional category
-- $n$ is the number of differentially expressed genes
-- $k$ is the number of differentially expressed genes in the category
-
-If rows or columns of the 2x2 contingency table are independent, Fisher's exact test is used
-
-$$P = \sum_{i=k}^n{\frac{\binom{n}{i}\binom{m}{j+k-i}}{{m+n \choose j+k}}}$$
-
-
-## Approach 1 {.larger}
-
 **Overrepresentation analysis (ORA)**
 
 1. Find a set of differentially expressed genes (DEGs)
