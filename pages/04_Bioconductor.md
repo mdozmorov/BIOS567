@@ -21,5 +21,5 @@ Filtering exercise, [PDF](/BIOS567/assets/presentation_Bioconductor/Filtering.pd
 
 - Huber, Wolfgang, Vincent J. Carey, Robert Gentleman, Simon Anders, Marc Carlson, Benilton S. Carvalho, Hector Corrada Bravo, et al. “Orchestrating High-Throughput Genomic Analysis with Bioconductor.” Nature Methods 12, no. 2 (February 2015): 115–21. doi:10.1038/nmeth.3252. [https://www.ncbi.nlm.nih.gov/pubmed/25633503](https://www.ncbi.nlm.nih.gov/pubmed/25633503) - Details of the latest Bioconductor development and functionality
 
-
+- Bioconductor cheat sheet, covers basics of R/Bioconductor. Especially useful are sections about GenomicRanges and related commands. [https://github.com/mikelove/bioc-refcard](https://github.com/mikelove/bioc-refcard)
 
