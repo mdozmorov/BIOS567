@@ -3,7 +3,11 @@ layout: page
 title: Clustering
 ---
 
-Clustering slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering.html), [PDF](/BIOS567/assets/presentation_Clustering/Clustering.pdf), [Rmd](/BIOS567/assets/presentation_Clustering/Clustering.Rmd)
+Hierarchical Clustering slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering.html), [PDF](/BIOS567/assets/presentation_Clustering/Clustering.pdf), [Rmd](/BIOS567/assets/presentation_Clustering/Clustering.Rmd)
+
+Non-Hierarchical Clustering slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering1.html), [PDF](/BIOS567/assets/presentation_Clustering/Clustering1.pdf), [Rmd](/BIOS567/assets/presentation_Clustering/Clustering1.Rmd)
+
+Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2.html), [PDF](/BIOS567/assets/presentation_Clustering/Clustering2.pdf), [Rmd](/BIOS567/assets/presentation_Clustering/Clustering2.Rmd)
 
 <!--
 ## Examples
