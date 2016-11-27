@@ -5,6 +5,10 @@ title: Gene Ontology, Functional enrichment
 
 Functional enrichment slides, [HTML](/BIOS567/assets/presentation_functional_enrichment/functional_enrichment.html), [PDF](/BIOS567/assets/presentation_functional_enrichment/functional_enrichment.pdf), [Rmd](/BIOS567/assets/presentation_functional_enrichment/functional_enrichment.Rmd)
 
+## Exercises
+
+Functional enrichment analysis of genes using [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html), roast/mroast/fry from [limma](https://bioconductor.org/packages/release/bioc/html/limma.html), [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html) package, and Fisher's exact test, [Enrichment_Genes.Rmd](/BIOS567/assets/presentation_functional_enrichment/Enrichment_Genes.Rmd)
+
 ## References
 
 Ackermann, Marit, and Korbinian Strimmer. “**A General Modular Framework for Gene Set Enrichment Analysis.**” BMC Bioinformatics, 2009 [http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-47](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-47)
