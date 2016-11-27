@@ -11,6 +11,8 @@ Functional enrichment analysis of genes using [topGO](https://bioconductor.org/p
 
 A function to perform GO/KEGG/MSigDB enrichment analysis using [GOStats](https://bioconductor.org/packages/release/bioc/html/GOstats.html) and Fisher's exact test, [https://github.com/mdozmorov/MDmisc/blob/master/R/gene_enrichment.R](https://github.com/mdozmorov/MDmisc/blob/master/R/gene_enrichment.R)
 
+Visualizing enriched KEGG canonical  pathways with [pathview](https://bioconductor.org/packages/release/bioc/html/pathview.html), [EnrichmentOverlay.Rmd](/BIOS567/assets/presentation_functional_enrichment/EnrichmentOverlay.Rmd)
+
 ## References
 
 Ackermann, Marit, and Korbinian Strimmer. “**A General Modular Framework for Gene Set Enrichment Analysis.**” BMC Bioinformatics, 2009 [http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-47](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-47)
