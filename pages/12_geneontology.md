@@ -15,7 +15,7 @@ A function to perform GO/KEGG/MSigDB enrichment analysis using [GOStats](https:/
 
 Visualizing enriched KEGG canonical  pathways with [pathview](https://bioconductor.org/packages/release/bioc/html/pathview.html), [EnrichmentOverlay.Rmd](/BIOS567/assets/presentation_functional_enrichment/EnrichmentOverlay.Rmd)
 
-
+Functional enrichment of genomic regions using [ChIPpeakAnno](https://bioconductor.org/packages/release/bioc/html/ChIPpeakAnno.html), [Enrichment_Regions.Rmd](/BIOS567/assets/presentation_functional_enrichment/Enrichment_Regions.Rmd)
 
 ## References
 
