@@ -24,7 +24,19 @@ Clustering slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering.htm
 - Lecture notes about hierarchical clustering, agglomerative, steps. Ward's method. Single link, complete. [http://www.stat.cmu.edu/~cshalizi/350/lectures/07/lecture-07.pdf](http://www.stat.cmu.edu/~cshalizi/350/lectures/07/lecture-07.pdf), [http://www.stat.cmu.edu/~cshalizi/350/lectures/08/lecture-08.pdf](http://www.stat.cmu.edu/~cshalizi/350/lectures/08/lecture-08.pdf)
 
 <!--
+- Chen et.al. "EVALUATION AND COMPARISON OF CLUSTERING ALGORITHMS IN ANGLYZING ES CELL GENE EXPRESSION DATA" [http://www3.stat.sinica.edu.tw/statistica/oldpdf/A12n112.pdf](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A12n112.pdf)
+
+- Ronan et.al. “Avoiding Common Pitfalls When Clustering Biological Data.” Science Signaling 2016 [http://stke.sciencemag.org/content/9/432/re6.long](http://stke.sciencemag.org/content/9/432/re6.long)
+
+- Overview of dimensionality reduction techniques, Onderwater, Martijn. “Outlier Preservation by Dimensionality Reduction Techniques.” IJDATS 2015 [http://www.inderscience.com/offer.php?id=71365](http://www.inderscience.com/offer.php?id=71365)
+
 - PCA statistics [http://users.ics.aalto.fi/jhollmen/dippa/node30.html](http://users.ics.aalto.fi/jhollmen/dippa/node30.html), [https://onlinecourses.science.psu.edu/stat505/node/51](https://onlinecourses.science.psu.edu/stat505/node/51)
+
+- Relationship between SVD and PCA [https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca](https://stats.stackexchange.com/questions/134282/relationship-between-svd-and-pca-how-to-use-svd-to-perform-pca)
+
+- NMF, nonnegative matrix factorization for gene expression studies. Brunet et.al. “Metagenes and Molecular Pattern Discovery Using Matrix Factorization.” PNAS, 2004. [http://www.pnas.org/content/101/12/4164.long](http://www.pnas.org/content/101/12/4164.long)
+
+- Biclustering, Pontes et. al. “Biclustering on Expression Data: A Review.” Journal of Biomedical Informatics, 2015 [http://www.sciencedirect.com/science/article/pii/S1532046415001380](http://www.sciencedirect.com/science/article/pii/S1532046415001380)
 
 ## Selected R packages
 
