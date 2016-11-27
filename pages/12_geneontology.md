@@ -9,9 +9,13 @@ Functional enrichment slides, [HTML](/BIOS567/assets/presentation_functional_enr
 
 Functional enrichment analysis of genes using [topGO](https://bioconductor.org/packages/release/bioc/html/topGO.html), roast/mroast/fry from [limma](https://bioconductor.org/packages/release/bioc/html/limma.html), [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html) package, and Fisher's exact test, [Enrichment_Genes.Rmd](/BIOS567/assets/presentation_functional_enrichment/Enrichment_Genes.Rmd)
 
+More on gene set enrichment analysis using [limma](https://bioconductor.org/packages/release/bioc/html/limma.html), [https://genomicsclass.github.io/book/pages/gene_set_analysis_in_R.html](https://genomicsclass.github.io/book/pages/gene_set_analysis_in_R.html)
+
 A function to perform GO/KEGG/MSigDB enrichment analysis using [GOStats](https://bioconductor.org/packages/release/bioc/html/GOstats.html) and Fisher's exact test, [https://github.com/mdozmorov/MDmisc/blob/master/R/gene_enrichment.R](https://github.com/mdozmorov/MDmisc/blob/master/R/gene_enrichment.R)
 
 Visualizing enriched KEGG canonical  pathways with [pathview](https://bioconductor.org/packages/release/bioc/html/pathview.html), [EnrichmentOverlay.Rmd](/BIOS567/assets/presentation_functional_enrichment/EnrichmentOverlay.Rmd)
+
+
 
 ## References
 
