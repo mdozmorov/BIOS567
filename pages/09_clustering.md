@@ -9,6 +9,13 @@ Non-Hierarchical Clustering slides, [HTML](/BIOS567/assets/presentation_Clusteri
 
 Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2.html), [PDF](/BIOS567/assets/presentation_Clustering/Clustering2.pdf), [Rmd](/BIOS567/assets/presentation_Clustering/Clustering2.Rmd)
 
+
+## Exercises
+
+- Single linkage clustering example, [Single_Linkage.R](/BIOS567/assets/presentation_Clustering/Single_Linkage.R)
+
+- Complete and average linkage, [Complete_Linkage.R](/BIOS567/assets/presentation_Clustering/Complete_Linkage.R), [Average_linkage.R](/BIOS567/assets/presentation_Clustering/Average_linkage.R)
+
 <!--
 ## Examples
 
@@ -27,11 +34,11 @@ Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2
 
 - Lecture notes about hierarchical clustering, agglomerative, steps. Ward's method. Single link, complete. [http://www.stat.cmu.edu/~cshalizi/350/lectures/07/lecture-07.pdf](http://www.stat.cmu.edu/~cshalizi/350/lectures/07/lecture-07.pdf), [http://www.stat.cmu.edu/~cshalizi/350/lectures/08/lecture-08.pdf](http://www.stat.cmu.edu/~cshalizi/350/lectures/08/lecture-08.pdf)
 
-<!--
 - Chen et.al. "EVALUATION AND COMPARISON OF CLUSTERING ALGORITHMS IN ANGLYZING ES CELL GENE EXPRESSION DATA" [http://www3.stat.sinica.edu.tw/statistica/oldpdf/A12n112.pdf](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A12n112.pdf)
 
 - Ronan et.al. “Avoiding Common Pitfalls When Clustering Biological Data.” Science Signaling 2016 [http://stke.sciencemag.org/content/9/432/re6.long](http://stke.sciencemag.org/content/9/432/re6.long)
 
+<!--
 - Overview of dimensionality reduction techniques, Onderwater, Martijn. “Outlier Preservation by Dimensionality Reduction Techniques.” IJDATS 2015 [http://www.inderscience.com/offer.php?id=71365](http://www.inderscience.com/offer.php?id=71365)
 
 - PCA statistics [http://users.ics.aalto.fi/jhollmen/dippa/node30.html](http://users.ics.aalto.fi/jhollmen/dippa/node30.html), [https://onlinecourses.science.psu.edu/stat505/node/51](https://onlinecourses.science.psu.edu/stat505/node/51)
