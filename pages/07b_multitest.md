@@ -9,9 +9,11 @@ Batch effect correction slides [HTML](/BIOS567/assets/presentation_diffexpressio
 
 ### Exercises
 
-Multiple testing correction demo, [multitest.R](/BIOS567/assets/presentation_diffexpression/multitest.R)
+- Multiple testing correction demo, [multitest.R](/BIOS567/assets/presentation_diffexpression/multitest.R)
 
-Example of batch effect correction using ComBat and SVA [http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html](http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html), [batch_sva_combat.R](/BIOS567/assets/presentation_diffexpression/batch_sva_combat.R)
+- Permutation p-value, [permutations.R](/BIOS567/assets/presentation_diffexpression/permutations.R)
+
+- Example of batch effect correction using ComBat and SVA [http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html](http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html), [batch_sva_combat.R](/BIOS567/assets/presentation_diffexpression/batch_sva_combat.R)
 
 ### References
 
