@@ -16,11 +16,11 @@ Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2
 
 - Complete and average linkage, [Complete_Linkage.R](/BIOS567/assets/presentation_Clustering/Complete_Linkage.R), [Average_linkage.R](/BIOS567/assets/presentation_Clustering/Average_linkage.R)
 
-<!--
 ## Examples
 
+- Multidimensional Scaling, J.B. Kruskal. AT&T Bell Laboratories (1962), [http://stat-graphics.org/movies/multidimensional-scaling.html](http://stat-graphics.org/movies/multidimensional-scaling.html)
+
 - More PCA examples [https://genomicsclass.github.io/book/pages/pca_svd.html](https://genomicsclass.github.io/book/pages/pca_svd.html)
--->
 
 ## References
 
@@ -38,7 +38,6 @@ Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2
 
 - Ronan et.al. “Avoiding Common Pitfalls When Clustering Biological Data.” Science Signaling 2016 [http://stke.sciencemag.org/content/9/432/re6.long](http://stke.sciencemag.org/content/9/432/re6.long)
 
-<!--
 - Overview of dimensionality reduction techniques, Onderwater, Martijn. “Outlier Preservation by Dimensionality Reduction Techniques.” IJDATS 2015 [http://www.inderscience.com/offer.php?id=71365](http://www.inderscience.com/offer.php?id=71365)
 
 - PCA statistics [http://users.ics.aalto.fi/jhollmen/dippa/node30.html](http://users.ics.aalto.fi/jhollmen/dippa/node30.html), [https://onlinecourses.science.psu.edu/stat505/node/51](https://onlinecourses.science.psu.edu/stat505/node/51)
@@ -55,8 +54,12 @@ Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2
 
 - `sigclust` - Statistical Significance of Clustering, [https://cran.r-project.org/web/packages/sigclust/index.html](https://cran.r-project.org/web/packages/sigclust/index.html)
 
+- `pvclust` - An R package for hierarchical clustering with p-values, [http://www.sigmath.es.osaka-u.ac.jp/shimo-lab/prog/pvclust/](http://www.sigmath.es.osaka-u.ac.jp/shimo-lab/prog/pvclust/)
+
+- `dynamicTreeCut` - Methods for Detection of Clusters in Hierarchical Clustering Dendrograms, [https://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/BranchCutting/](https://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/BranchCutting/), [https://cran.r-project.org/web/packages/dynamicTreeCut/index.html](https://cran.r-project.org/web/packages/dynamicTreeCut/index.html)
+
+- `WGCNA` - Weighted Correlation Network Analysis, [https://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/](https://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/), [https://cran.r-project.org/web/packages/WGCNA/index.html](https://cran.r-project.org/web/packages/WGCNA/index.html)
+
 ## Datasets
 
 - [nci60.tsv](http://odin.mdacc.tmc.edu/~kdo/TeachBioinf/Projects%20&%20Data%20Sets/nci60.tsv) - cell types can be clustered
--->
-
