@@ -5,7 +5,7 @@ title: BIOS 567, Final project
 
 **General description**: The purpose of the final project is for you to gain familiarity with the full spectrum of methods presented in class, applied to the real life data. Additionally, the project should help solidify your statistical and practical understanding of such methods.
 
-For your project, you are required to perform an analysis of a microarray dataset. Your project should be a complete and thorough analysis of your data, and must include application of methods related to data retrieval from GEO, quality control, normalization, expression summaries, batch effect removal, unsupervised (clustering), and differential expression analysis methods learned in this course.
+For your project, you are required to perform an analysis of a microarray dataset. Your project should be a complete and thorough analysis of your data, and must include application of methods related to data retrieval from GEO, quality control, normalization, expression summaries, batch effect removal, unsupervised (clustering), differential expression analysis, and functional enrichment analysis methods learned in this course.
 
 You must select a microarray dataset to analyze. Prerequisites for a dataset: 
 
