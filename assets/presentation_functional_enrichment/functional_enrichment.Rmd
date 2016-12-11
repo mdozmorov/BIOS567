@@ -286,6 +286,8 @@ Gene ontology describes multiple levels of detail of gene function.
 - **GeneMania**, networks based on different properties, http://genemania.org
 - **STRING**, protein-protein interaction networks, http://string-db.org
 - **Genes2Networks**, protein-protein interaction networks, http://amp.pharm.mssm.edu/X2K/#g2n
+- **IntAct**, protein-protein interaction data and networks, https://www.ebi.ac.uk/intact/
+- **HPRD**, protein-protein interaction database, http://www.hprd.org/
 
 ## Overview {.larger}
 
