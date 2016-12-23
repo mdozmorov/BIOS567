@@ -30,6 +30,8 @@ Microarray databases slides, [HTML](/BIOS567/assets/presentation_Microarray/02_M
 
 [GSE1397](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1397) - the data on Down Syndrome Trisomy 21. **Affymetrix GeneChipTM Human U133A**. Mao R, Wang X, Spitznagel EL Jr, Frelin LP et al. Primary and secondary transcriptional effects in the developing human Down syndrome brain and heart. Genome Biol 2005. PMID: 16420667
 
+- `datamicroarray` R package - A collection of small-sample, high-dimensional microarray data sets to assess machine-learning algorithms and models. [https://github.com/ramhiser/datamicroarray](https://github.com/ramhiser/datamicroarray)
+
 # More GEO DataSets
 
 136 datasets used by Hung, Jui-Hung, Tun-Hsiang Yang, Zhenjun Hu, Zhiping Weng, and Charles DeLisi. “Gene Set Enrichment Analysis: Performance Evaluation and Usage Guidelines.” Briefings in Bioinformatics 2012, Supplementary Data 1 [http://bib.oxfordjournals.org/content/13/3/281/suppl/DC1](http://bib.oxfordjournals.org/content/13/3/281/suppl/DC1)
