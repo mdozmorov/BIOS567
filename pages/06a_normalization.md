@@ -23,3 +23,6 @@ Quantile normalization example, [PDF](/BIOS567/assets/presentation_Normalization
 
 On non-linear curve fitting and goodness-of-fit: "Technical note: Curve fitting with the R Environment for Statistical Computing", PDF, [http://www.css.cornell.edu/faculty/dgr2/teach/R/R_CurveFit.pdf](http://www.css.cornell.edu/faculty/dgr2/teach/R/R_CurveFit.pdf)
 
+### Misc
+
+- `qsmooth` R package - Smooth quantile normalization (qsmooth) is a generalization of quantile normalization, which is an average of the two types of assumptions about the data generation process: quantile normalization and quantile normalization between groups. [https://github.com/stephaniehicks/qsmooth](https://github.com/stephaniehicks/qsmooth)
