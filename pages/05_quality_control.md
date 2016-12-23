@@ -25,3 +25,7 @@ QC Affymetrix (single-channel) arrays slides, [HTML](/BIOS567/assets/presentatio
 
 - Manufacturing Quality Control and Validation Studies of GeneChip® Arrays (pdf, 3.28 MB) [http://www.affymetrix.com/support/technical/technotes/manufacturing_quality_technote.pdf](http://www.affymetrix.com/support/technical/technotes/manufacturing_quality_technote.pdf)
 
+# Misc
+
+- mimager: The microarray imager R package [https://github.com/aaronwolen/mimager](https://github.com/aaronwolen/mimager)
+
