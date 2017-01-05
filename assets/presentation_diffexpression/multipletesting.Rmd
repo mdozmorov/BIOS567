@@ -42,6 +42,8 @@ knit_hooks$set(source = function(x, options){
 
 $$(1-(1-0.05)^{10})=0.40126$$
 
+<div style="font-size: small;">Naomi Altman	& Martin Krzywinski "Points of significance: P values and the search for significance", Nat. Methods 2016, http://www.nature.com/nmeth/journal/v14/n1/full/nmeth.4120.html</div>
+
 ## Multiple Hypothesis Testing for differential expression detection  {.larger}
 
 - The test statistics and hence the p-values are likely correlated due to co-regulation of the genes.
