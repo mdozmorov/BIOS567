@@ -50,6 +50,8 @@ Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2
 
 - Biclustering, Pontes et. al. “Biclustering on Expression Data: A Review.” Journal of Biomedical Informatics, 2015 [http://www.sciencedirect.com/science/article/pii/S1532046415001380](http://www.sciencedirect.com/science/article/pii/S1532046415001380)
 
+- Videos (~15min) explaining Hierarchical Agglomerative Clustering ([https://youtu.be/OcoE7JlbXvY?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw](https://youtu.be/OcoE7JlbXvY?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)), K-Means Clustering ([https://youtu.be/mfqmoUN-Cuw?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw](https://youtu.be/mfqmoUN-Cuw?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)), Gaussian Mixture Models and EM ([https://youtu.be/qMTuMa86NzU?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw](https://youtu.be/qMTuMa86NzU?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw)), PCA, SVD ([https://youtu.be/F-nfsSq42ow?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw])
+
 ## Selected R packages
 
 - `ConsensusClusterPlus` - cluster count and membership, [https://www.bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html](https://www.bioconductor.org/packages/release/bioc/html/ConsensusClusterPlus.html)
