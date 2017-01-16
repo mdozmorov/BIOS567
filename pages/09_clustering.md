@@ -32,6 +32,8 @@ Clustering QC slides, [HTML](/BIOS567/assets/presentation_Clustering/Clustering2
 
 - CRAN overview of clustering functions [http://cran.at.r-project.org/web/views/Cluster.html](http://cran.at.r-project.org/web/views/Cluster.html)
 
+- 76 formulas for measuring (dis)similarity between binary vectors. Choi, Seung-Seok, Sung-Hyuk Cha, and Charles C Tappert. “A Survey of Binary Similarity and Distance Measures.” Journal of Systemics, Cybernetics and Informatics 2010. [http://www.baskent.edu.tr/~hogul/binary.pdf](http://www.baskent.edu.tr/~hogul/binary.pdf)
+
 - Lecture notes about hierarchical clustering, agglomerative, steps. Ward's method. Single link, complete. [http://www.stat.cmu.edu/~cshalizi/350/lectures/07/lecture-07.pdf](http://www.stat.cmu.edu/~cshalizi/350/lectures/07/lecture-07.pdf), [http://www.stat.cmu.edu/~cshalizi/350/lectures/08/lecture-08.pdf](http://www.stat.cmu.edu/~cshalizi/350/lectures/08/lecture-08.pdf)
 
 - Chen et.al. "EVALUATION AND COMPARISON OF CLUSTERING ALGORITHMS IN ANGLYZING ES CELL GENE EXPRESSION DATA" [http://www3.stat.sinica.edu.tw/statistica/oldpdf/A12n112.pdf](http://www3.stat.sinica.edu.tw/statistica/oldpdf/A12n112.pdf)
