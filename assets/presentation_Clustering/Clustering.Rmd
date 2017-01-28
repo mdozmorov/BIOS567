@@ -196,11 +196,21 @@ Example distance between gene 1 and 2:
 
 <center><img src="img/canberra.png" height="100px" /></center>
 
-- Binary (0/1 vectors), aka Jaccard distance
+- Maximum distance between two components of $x$ and $y$
+
+## Distance measures {.larger}
+
+Binary (0/1 vectors)
+
+- Jaccard distance
 
 <center><img src="img/jaccard.png" height="100px" /></center>
 
-- Maximum distance between two components of $x$ and $y$
+- Overlap coefficient
+
+$$C = \frac{ \lvert A \cap B \rvert}{min(\lvert A \rvert, \lvert B \rvert)}$$
+
+Both lie in the range $[0, 1]$. $J, C = 0$ indicating no overlaps between binary vectors. A Jaccard-index $J = 1$ indicates two identical vectors, whereas the overlap coefficient $C = 1$ when one vector is a complete subset of the other. 
 
 ## Similarity definition {.larger}
 
